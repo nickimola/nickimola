@@ -8,7 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickimola&show_icons=true&theme=dracula" alt="nickimola" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" alt="nickimola" /></p>
-)
 
 <!--
 <p align="left">
