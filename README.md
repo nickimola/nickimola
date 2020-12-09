@@ -1,13 +1,16 @@
 <h1 align="center">Hi, I'm Nick</h1>
 <h3 align="center">A Full Stack web developer based in Italy and with a strong passion for Technology</h3>
 
-- All of my projects are available at [https://nicholaslazzerini.com](https://nicholaslazzerini.com)
+- My personal website is [https://nicholaslazzerini.com](https://nicholaslazzerini.com)
 
 - You can get in touch with me by email **info@nicholaslazzerini.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickimola&show_icons=true&theme=dracula" alt="nickimola" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" alt="nickimola" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickimola&show_icons=true&theme=dracula" alt="nickimola" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" alt="nickimola" /> 
+
+
+
 
 <!--
 <p align="left">
