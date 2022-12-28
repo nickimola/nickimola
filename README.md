@@ -3,10 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a Full Stack web developer based in Italy and with a strong passion for Technology
 
-*   🌍  I'm based in Imola, (Bologna) - Italy
-*   🖥️  See my portfolio at [nicholaslazzerini.com](http://nicholaslazzerini.com)
-*   ✉️  You can contact me at [info@nicholaslazzerini.com](mailto:info@nicholaslazzerini.com)<a href="https://www.github.com/nickimola" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/nickimola?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Imola, (Bologna) - Italy
+* 🖥️  See my portfolio at [nicholaslazzerini.com](http://nicholaslazzerini.com)
+* ✉️  You can contact me at [info@nicholaslazzerini.com](mailto:info@nicholaslazzerini.com)
+
+<a href="https://www.github.com/nickimola" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/nickimola?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -24,16 +30,20 @@ I am a Full Stack web developer based in Italy and with a strong passion for Tec
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/nickimola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/nicholaslazzerini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/3760661/nick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/nickimola"><img src="https://github-readme-stats.vercel.app/api?username=nickimola&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="nickimola's GitHub stats" /></a><a href="https://github.com/nickimola" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickimola&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/nickimolab"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/nickimola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nicholaslazzerini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/3760661/nick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/nickimola"><img src="https://github-readme-stats.vercel.app/api?username=nickimola&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="nickimola's GitHub stats" /></a>
+
+<a href="https://github.com/nickimola" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickimola&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/nickimolab"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
