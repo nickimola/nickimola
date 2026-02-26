@@ -7,7 +7,7 @@ I am a Full Stack web developer based in Italy and with a strong passion for Tec
 * 🖥️  See my portfolio at [nicholaslazzerini.com](http://nicholaslazzerini.com)
 * ✉️  You can contact me at [info@nicholaslazzerini.com](mailto:info@nicholaslazzerini.com)
 
-<a href="https://gitroll.io/profile/uZt58VoNYJkdS6YylGXasRIggyNz2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZt58VoNYJkdS6YylGXasRIggyNz2?theme=dracula" alt="GitRoll Profile Badge"/></a>
+
 
 <a href="https://www.github.com/nickimola" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nickimola?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
