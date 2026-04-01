@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a Full Stack web developer based in Italy and with a strong passion for Technology
 
-* 🌍  I'm based in Forlì - Italy
-* 🖥️  See my portfolio at [nicholaslazzerini.com](http://nicholaslazzerini.com)
+* 🌍  I'm based in Italy
+* 🖥️  Check out my portfolio at [nicholaslazzerini.com](http://nicholaslazzerini.com)
 
 ---
 
